@@ -3,7 +3,7 @@ This is Spring 2017, ECE 4574, Team 4's final project submission.
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tkakusa/AndroidBackground/master/app/src/main/res/drawable/logo.png?raw=true" alt="mECEge"/>
+  <img src="https://github.com/ldev-r3-t4/mECEge-FINAL/blob/master/mECEge_1.png" width="200"> <img src="https://github.com/ldev-r3-t4/mECEge-FINAL/blob/master/mECEge_2.png" width="200"> <img src="https://github.com/ldev-r3-t4/mECEge-FINAL/blob/master/mECEge_3.png" width="200">
 </p>
 
 Our group created an anonymous messaging app in Android called 'mECEge' that allows users to comment in specific class threads. It is comprised of a user friendly Android application, Analytics server, front-end server interface, and back-end storage database. 
