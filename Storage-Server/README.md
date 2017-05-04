@@ -27,12 +27,10 @@ https://documenter.getpostman.com/view/1745639/collection/6Ywyb8T
 The shared Collections link to my tests are here:
 https://www.getpostman.com/collections/993667a29a4d02bd5e23
 
-### What is this for? ###
-
-This is the storage server for our final project. It will take in blobs (granted version number provided is correct) and store them. This repository contains the API definition, Mongodb DataBase Code, and Server host.
-
 ## Prerequisites to Run ##
 * Docker is installed
+* MongoDB Python Module and database application 
+* Flask
 * Your device is connected to the internet (to clone the repository and download required libraries)
 
 ## How to Run Test Framework on Docker ##
