@@ -6,7 +6,7 @@ This is Spring 2017, ECE 4574, Team 4's final project submission.
   <img src="https://github.com/ldev-r3-t4/mECEge-FINAL/blob/master/mECEge_1.png" width="200"> <img src="https://github.com/ldev-r3-t4/mECEge-FINAL/blob/master/mECEge_2.png" width="200"> <img src="https://github.com/ldev-r3-t4/mECEge-FINAL/blob/master/mECEge_3.png" width="200">
 </p>
 
-Our group created an anonymous messaging app in Android called 'mECEge' that allows users to comment in specific class threads. It is comprised of a user friendly Android application, Analytics server, front-end server interface, and back-end storage database. 
+Our group created an anonymous messaging app in Android called 'mECEge' that allows users to comment in specific class threads. It is comprised of a user friendly Android application, Analytics server, front-end server interface, and back-end storage database. Integration test can be found in the android application repositories as the app utilizies all the servers the team created. 
 
 Please see the sub-folders listed above for links to each of our primary repositories.
 
