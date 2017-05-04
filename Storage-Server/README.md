@@ -1,7 +1,7 @@
 # Storage API
 This is Team 4's Final Project implmentation of the storage server for ECE 4574 at Virginia Tech. 
 
-The storage server uses MongodB and FLASK running on the back-end and is interfaced by Matt's server. It stores data as blobs and has control of versioning, sanitizing of inputs, and valid error code responses. 
+The storage server uses MongodB and FLASK running on the back-end and is interfaced by Matt's front-end server. The API was defined in Swagger and hosted by my personal Amazon EC2 server. It stores data as blobs and has control of versioning, sanitizing of inputs, valid error/success code responses and persistent storage of data.
 
 The server has two databases, one called Primary for normal application ussage, and another called Analytics which Geordan uses for his analytics server.
 
