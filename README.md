@@ -16,6 +16,8 @@ Please see the sub-folders listed above for links to each of our primary reposit
 
 (Bowei Zhao) [Storage Server](https://github.com/ldev-r3-t4/storage_server)
 
+(Matthew Gross) [Front-end Server](https://github.com/ldev-r3-t4/frontend-server-v2)
+
 
 ### Authors ###
 
