@@ -1,7 +1,11 @@
 # TEAM 4 Final Project
 This is Spring 2017, ECE 4574, Team 4's final project submission. 
 
+![mECEge](https://github.com/tkakusa/AndroidBackground/blob/master/app/src/main/res/drawable/logo.png?raw=true)
+
 Our group created an anonymous messaging app in Android called 'mECEge' that allows users to comment in specific class threads. It is comprised of a user friendly Android application, Analytics server, front-end server interface, and back-end storage database. 
+
+Please see the sub-folders listed above for links to each of our primary repositories.
 
 (Takondwa Kakusa)   [Back-end Android Application](https://github.com/tkakusa/AndroidBackground/tree/master)
 
