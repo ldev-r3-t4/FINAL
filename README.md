@@ -18,6 +18,14 @@ Please see the links below for each of our primary repositories.
 
 (Matthew Gross) [Front-end Server](https://github.com/ldev-r3-t4/frontend-server-v2)
 
+(Geordon Worley) Analytics
+
+- [Analytics Hosted Events v2](http://ec2-35-166-158-199.us-west-2.compute.amazonaws.com/v2/)
+- [Analytics Server](https://github.com/ldev-r3-t4/analytics)
+  - [Documentation](https://ldev-r3-t4.github.io/analytics/analytics/)
+- [Analytics Protocol](https://github.com/ldev-r3-t4/analytics-proto)
+  - [Documentation](https://ldev-r3-t4.github.io/analytics/analytics_proto/)
+
 
 ### Authors ###
 
