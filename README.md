@@ -8,7 +8,7 @@ This is Spring 2017, ECE 4574, Team 4's final project submission.
 
 Our group created an anonymous messaging app in Android called 'mECEge' that allows users to comment in specific class threads. It is comprised of a user friendly Android application, Analytics server, front-end server interface, and back-end storage database. Integration test can be found in the android application repository as the app utilizies all the servers the team created. 
 
-Please see the sub-folders listed below for links to each of our primary repositories.
+Please see the links below for each of our primary repositories.
 
 (Takondwa Kakusa)   [Back-end Android Application](https://github.com/tkakusa/AndroidBackground/tree/master)
 
